@@ -141,6 +141,10 @@ The application processes PDFs and answers questions through the following steps
 
 For detailed instructions, refer to the [Astra DB Documentation](https://docs.datastax.com/en/astra/docs/).
 
+**Worked with Cassandra’s vector DB using DataStax Astra.**
+
+![image](https://github.com/user-attachments/assets/e3dcad50-14c0-44b4-9266-e6f430250478)
+
 ## Obtaining Google API Key
 
 1. Visit the [Google Cloud Console](https://console.cloud.google.com/).
@@ -178,7 +182,3 @@ For additional support, consult:
 - [LangChain Documentation](https://python.langchain.com/docs/get_started/introduction)
 - [Google Gemini API Documentation](https://cloud.google.com/vertex-ai/docs/generative-ai/model-reference/gemini)
 - [Astra DB Documentation](https://docs.datastax.com/en/astra/docs/)
-
-## Used cassandra vector db through DataStax Astra
-
-![image](https://github.com/user-attachments/assets/e3dcad50-14c0-44b4-9266-e6f430250478)
